@@ -1,2 +1,2 @@
 # Bechdel-Test
-Performs the Bechdel test on movie scripts scraped from the Internet Movie Script Database (IMSDb)
+Performing the Bechdel test (https://en.wikipedia.org/wiki/Bechdel_test) on movie scripts scraped from the Internet Movie Script Database (https://www.imsdb.com/)
